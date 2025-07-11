@@ -1,8 +1,19 @@
+# Environment files
 .env
-config.py
+
+# Config file (if you want to keep it private, add here)
+# config.py    # agar config.py me sensitive data hai to uncomment karen
+
+# Python cache files
 __pycache__/
 *.py[cod]
+
+# Virtual environments
 venv/
 .venv/
+
+# Logs
 *.log
+
+# VS Code settings
 .vscode/
